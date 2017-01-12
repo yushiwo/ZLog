@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ZLog.iml" filepath="$PROJECT_DIR$/ZLog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZLog/ZLog-ZLog.iml" filepath="$PROJECT_DIR$/ZLog/ZLog-ZLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZLogLib/ZLogLib.iml" filepath="$PROJECT_DIR$/ZLogLib/ZLogLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
