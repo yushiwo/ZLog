@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZLog/ZLog.iml" filepath="$PROJECT_DIR$/ZLog/ZLog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZLogDemo.iml" filepath="$PROJECT_DIR$/ZLogDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZLog.iml" filepath="$PROJECT_DIR$/ZLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZLog/ZLog-ZLog.iml" filepath="$PROJECT_DIR$/ZLog/ZLog-ZLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
